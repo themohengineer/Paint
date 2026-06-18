@@ -54,6 +54,7 @@ public class Painting extends JFrame {
             }
         });
 
+
         // Handle mouse movement
         canvas.addMouseMotionListener(new MouseMotionAdapter() {
             @Override
