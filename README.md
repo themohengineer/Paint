@@ -6,4 +6,4 @@ ________________________________________________________________________________
 
 ## Screenshot
 
-![Paint Screenshot](images/screenshot.png)
+![Paint Screenshot](src/images/screenshot.png)
