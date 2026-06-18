@@ -78,5 +78,6 @@ public class Painting extends JFrame {
     public static void main(String[] args) {
         // Run the GUI on the Event Dispatch Thread
         SwingUtilities.invokeLater(() -> new Painting().setVisible(true));
+
     }
 }
