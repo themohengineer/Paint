@@ -4,6 +4,7 @@ import java.awt.event.*;
 import java.util.ArrayList;
 
 public class Painting extends JFrame {
+
     private JPanel canvas;
     private JButton clearButton;
     // List to store points for drawing lines
